@@ -1,0 +1,20 @@
+# Compiled Java classes
+AttendanceSystem/bin/
+AttendanceSystem/src/
+AttendanceSystemV2/bin/
+
+# Log files
+AttendanceSystem/server.log
+AttendanceSystem/server-err.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+.settings/
+
+# OS files
+Thumbs.db
+.DS_Store
